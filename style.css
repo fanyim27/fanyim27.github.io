@@ -1,0 +1,14 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: green;
+background-color: white;
+}
+body{
+font-size: 16px;
+font-family: Helvetica, sans-serif;
+color: #242424;
+}
+body {
+     background-image: url(http://subtlepatterns.com/cream-pixels/);
+}
